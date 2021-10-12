@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:300,600,700");
+ a {
+     text-decoration: none;
+}
+ body {
+     font-family: 'Nunito Sans', sans-serif;
+     color: #212529;
+}
+ h1, h2, h3, h4, h5, h6 {
+     font-weight: 600;
+}
+ h5 {
+     font-size: 1.25rem;
+}

@@ -1,0 +1,16 @@
+/**** READ MORE BUTTON ****/
+.read-more-btn {
+    border: 1px solid #0db3e3;
+    color: #0db3e3;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1px;
+    border-radius: 2px;
+    font-weight: 600;
+    padding: .6rem .8rem;
+}
+    .read-more-btn:hover {
+    background-color: #0db3e3;
+    color: #fff;
+}
+/**** END READ MORE BUTTON ****/
