@@ -111,12 +111,7 @@
      font-weight: 700;
      text-transform: uppercase;
 }
- .widget-title:before {
-     content: "";
-     bottom: 0;
-     width: 100%;
-     border-bottom: 1px solid #fff;
-}
+ 
  .widget-title:after {
      border-bottom: 1px solid #0db3e3;
      content: "";
