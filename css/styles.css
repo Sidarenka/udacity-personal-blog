@@ -1,9 +1,9 @@
-@import "css/layout.css";
- @import "css/materialdesignicons.css";
- @import "css/materialdesignicons.css.map";
- @import "css/materialdesignicons.min.css";
- @import "css/buttons.css";
- @import "css/typography.css";
+@import "../css/layout.css";
+ @import "../css/materialdesignicons.css";
+ @import "../css/materialdesignicons.css.map";
+ @import "../css/materialdesignicons.min.css";
+ @import "../css/buttons.css";
+ @import "../css/typography.css";
 /**** HEADER ****/
  nav ul {
      list-style: none;
