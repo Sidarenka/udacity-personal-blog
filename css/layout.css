@@ -1,7 +1,7 @@
 /**** MAIN PAGE LAYOUT ****/
 .container{
     display: grid;
-    grid-template-columns: minmax(450px, auto);
+    grid-template-columns: minmax(350px, auto);
     grid-template-rows: 80px minmax(500px, auto) minmax(500px, auto) minmax(300px, auto) 80px;
     grid-gap: 10px;
     grid-template-areas: 
@@ -44,7 +44,7 @@
 /**** BLOG PAGE LAYOUT ****/
 .post-container{
     display: grid;
-    grid-template-columns: minmax(450px, auto);
+    grid-template-columns: minmax(350px, auto);
     grid-template-rows: 80px minmax(500px, auto) 80px;
     grid-gap: 10px;
     grid-template-areas: 
